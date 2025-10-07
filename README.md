@@ -21,7 +21,7 @@
   3. npm run dev
 
 ## How to run the react native app?
-  1. Go to React_Native_App
+  1. Go to RN_Mobile_App
   2. Create a .env file and add the BASE_URL env variable, take ref from env.example.
   3. npm i
   4. npm start
