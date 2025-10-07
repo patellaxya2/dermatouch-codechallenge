@@ -27,5 +27,5 @@
   4. npm start
   5. npm run android
      
-  NOTE: Start the backend server before running the react native app.
+  **Note:**  Start the backend server before running the react native app.
   
