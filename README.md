@@ -16,15 +16,16 @@
   3. JWT authentication for APIs => DONE
 
 ## How to run the backend server?
-  Step 1. Go to the Backend folder 
-  Step 2. npm i
-  Step 3. npm run dev
+  1. Go to the Backend folder
+  2. npm i
+  3. npm run dev
 
 ## How to run the react native app?
-  Step 1: Go to React_Native_App
-  Step 2: npm i
-  Step 3: npm start
-  Step 4: npm run android
-
-  NOTE: start the backend server before run the react native app
+  1. Go to React_Native_App
+  2. Create a .env file and add the BASE_URL env variable, take ref from env.example.
+  3. npm i
+  4. npm start
+  5. npm run android
+     
+  NOTE: Start the backend server before running the react native app.
   
